@@ -20,3 +20,24 @@
 
 
 }
+
+{
+  "Titre": "Fight Club",
+  "Directeur": "David Fincher",
+  "Auteur": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+  "Date": "15 October 1999 (Canada)",
+  "Vedette": [
+    {
+      "Nom": "Edward Norton",
+      "Personnage": "The Narrator"
+    },
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Meat Loaf",
+      "Personnage": "Robert 'Bob' Paulsen"
+    }
+    ]
+}
