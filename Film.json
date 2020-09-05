@@ -1,4 +1,5 @@
-{
+{ FILMS: [
+  {
   "Titre": "Les Minions",
   "Directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
@@ -45,4 +46,6 @@
       "Age": 72
     }
     ]
+}
+]
 }
