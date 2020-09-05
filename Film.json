@@ -23,29 +23,29 @@
   ]
 }
 
-{
+  {
 
-  "Titre": "Fight Club",
-  "Directeur": "David Fincher",
-  "Auteur": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
-  "Date": 1999,
-  "Vedette": [
-    {
-      "Nom": "Edward Norton",
-      "Personnage": "The Narrator",
-      "Age": 51
-    },
-    {
-      "Nom": "Brad Pitt",
-      "Personnage": "Tyler Durden",
-      "Age": 56
-    },
-    {
-      "Nom": "Meat Loaf",
-      "Personnage": "Robert 'Bob' Paulsen",
-      "Age": 72
-    }
-    ]
-}
-]
+    "Titre": "Fight Club",
+    "Directeur": "David Fincher",
+    "Auteur": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+    "Date": 1999,
+    "Vedette": [
+      {
+       "Nom": "Edward Norton",
+        "Personnage": "The Narrator",
+        "Age": 51
+      },
+      {
+        "Nom": "Brad Pitt",
+       "Personnage": "Tyler Durden",
+       "Age": 56
+      },
+      {
+        "Nom": "Meat Loaf",
+        "Personnage": "Robert 'Bob' Paulsen",
+        "Age": 72
+      }
+      ]
+  }
+  ]
 }
