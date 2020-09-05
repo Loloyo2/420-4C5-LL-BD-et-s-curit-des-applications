@@ -1,27 +1,28 @@
-{ "Films": [
+{ "Films": 
+ [
   {
-  "Titre": "Les Minions",
-  "Directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
-    {
-      "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)",
-      "Age": 56
-    },
-    {
-      "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill  (voix)",
-      "Age": 49
-    },
-    {
-      "Nom": "Michael Keaton",
-      "Personnage": "Walter Nelson (voix)",
-      "Age": 68
-    }
-  ]
-},
+    "Titre": "Les Minions",
+    "Directeur": "Kyle Balda, Pierre Coffin",
+    "Auteur": "Brian Lynch,",
+    "Date": 2015,
+    "Vedette": [
+      {
+        "Nom": "Sandra Bullock",
+        "Personnage": "Scarlet Overkill (voix)",
+        "Age": 56
+      },
+      {
+        "Nom": "Jon Hamm",
+        "Personnage": "Herb Overkill  (voix)",
+        "Age": 49
+      },
+      {
+        "Nom": "Michael Keaton",
+        "Personnage": "Walter Nelson (voix)",
+        "Age": 68
+      }
+     ]
+   },
 
   {
 
